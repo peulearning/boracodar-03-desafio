@@ -17,7 +17,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="#boraCodar botões e cursores " src=".github/preview.png" width="100%">
+  <img alt="#boraCodar botões e cursores " src="github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,7 +25,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
